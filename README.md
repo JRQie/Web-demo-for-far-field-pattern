@@ -6,9 +6,10 @@ still in progress
 ###########
 
 a impressive web tool to design far field radiation pattern with the help of artificial neural network.
-the trained model can be downloaded through this link: (in progress)
+the trained model can be downloaded through this link: 
+https://drive.google.com/file/d/1ga1EOMGJ6Q9WbXhmTrZnUlu2Xi6TNnEE/view?usp=sharing
 
-usage method:
+Usage method:
 1. Downloading the model and put it in a directory corresponding to 'index.html';(I put it in ./models/)
 2. Open 'index.html' using FireFox browser.
 
