@@ -36,4 +36,5 @@ Usage method:
 
 ###########  
 ###########  
-
+Example:  
+![image](https://github.com/JRQie/Web-demo-for-far-field-pattern/blob/master/screen_shot.png)
