@@ -12,9 +12,9 @@ https://drive.google.com/file/d/1ga1EOMGJ6Q9WbXhmTrZnUlu2Xi6TNnEE/view?usp=shari
 ###########
 
 File discription:
-deeplean-0.3.15.js is a API function library for deep learning function realized by javaScript;
-index.html includes the implementation of the web demo;
-tmp6.bin is the trained model.
+1. deeplean-0.3.15.js is a API function library for deep learning function realized by javaScript;
+2. index.html includes the implementation of the web demo;
+3. tmp6.bin is the trained model.
 
 ###########
 ###########
