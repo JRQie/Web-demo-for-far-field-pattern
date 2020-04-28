@@ -19,8 +19,8 @@ tmp6.bin is the trained model.
 ###########
 ###########
 
-Currently it supports the FireFox 67 or earlier version.
-It can be easily downloaded through the link:https://ftp.mozilla.org/pub/firefox/releases/67.0.1/
+Currently it supports the FireFox 67 or earlier version:
+It can be easily downloaded through the link:https://ftp.mozilla.org/pub/firefox/releases/67.0.1/;
 
 For the FireFox 68 or later version, one needs to simplily modify the configuration of the browser:
 Type ‘about:config’ in the address bar, and then search 'privacy.file_unique_origin' in the settings and change the status to 'false'.
